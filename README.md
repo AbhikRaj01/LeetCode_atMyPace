@@ -1,6 +1,4 @@
 <div align="center">
-
-
 # ☠️ LEETCODE DEATH MARCH ☠️
 
 ### *A repository built on suffering, discipline, and the murder of excuses.*
