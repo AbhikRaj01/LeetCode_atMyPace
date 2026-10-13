@@ -1,7 +1,7 @@
 <div align="center">
 # ☠️ LEETCODE DEATH MARCH ☠️
 
-### *A repository built on suffering, discipline, and the murder of excuses.*
+### *A repository built on suffering, discipline, and the murder of excuses.* 
 
 ```
         WAKE UP.
