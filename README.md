@@ -7,6 +7,7 @@
         WAKE UP.
 
       YOU ARE BEHIND.
+
 Your competitors are coding.
 Someone is solving the problem
 you said was "too hard."
